@@ -1,7 +1,7 @@
 ![uws-logo](https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/University_of_the_West_of_Scotland_Logo.svg/2000px-University_of_the_West_of_Scotland_Logo.svg.png)
 
 # MSc Big Data - Master's Thesis
-## Project Title - How Big Data can help improve the healthcare provided by organisations; predicting the length of stay of diabetic patients
+## Project Title - **How Big Data can help improve the healthcare provided by organisations; predicting the length of stay of diabetic patients**
 
 ## Author: Resheph Gohil (B00238972)
 
