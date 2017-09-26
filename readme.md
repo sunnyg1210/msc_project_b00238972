@@ -3,10 +3,24 @@
 # MSc Big Data - Master's Thesis
 ## Project Title - **How Big Data can help improve the healthcare provided by organisations; predicting the length of stay of diabetic patients**
 
+---
 ## Author: Resheph Gohil (B00238972)
 
 
+---
+Required Libraries
+```
+Anaconda - Python 3
+TensorFlow - GPU Version
+Pandas
+Numpy
+Matplotlib
+Seaborn
+Sci-Kit Learn
+```
 
+
+---
 Code Files
 ```
 - msc_preprocessing_and_exploration_resheph_gohil_b00238972.py
