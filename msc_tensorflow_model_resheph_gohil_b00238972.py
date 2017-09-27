@@ -1,3 +1,7 @@
+# Resheph Gohil (B00238972)
+# MSc Big Data
+# University of the West of Scotland
+
 import matplotlib.pyplot as pyplot
 import tensorflow as tf
 import numpy as np

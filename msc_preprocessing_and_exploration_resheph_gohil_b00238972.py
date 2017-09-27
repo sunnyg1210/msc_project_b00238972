@@ -1,3 +1,7 @@
+# Resheph Gohil (B00238972)
+# MSc Big Data
+# University of the West of Scotland
+
 import pandas as pd
 import numpy as np
 from datetime import datetime as dt
